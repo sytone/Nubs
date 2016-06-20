@@ -106,9 +106,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Shellscape.Lib\Shellscape.Lib\Shellscape.Lib.csproj">
-      <Project>{F7F1F64D-F6CD-42A9-B167-546E4EA31463}</Project>
-      <Name>Shellscape.Lib</Name>
+    <ProjectReference Include="..\..\Shellscape.Common\Shellscape.Common\Shellscape.Common.csproj">
+      <Project>{770a2fe8-768b-4e68-a2da-988bc2c737d4}</Project>
+      <Name>Shellscape.Common</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />
